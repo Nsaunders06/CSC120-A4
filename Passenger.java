@@ -17,7 +17,7 @@ public class Passenger {
 /**
  * Allows you to add passenger to a car 
  * @param c
- * @return this 
+ * @return boardCar 
  */
     public Boolean boardCar (Car c) {
         return c.addPassenger(this);
@@ -25,7 +25,7 @@ public class Passenger {
 /**
  * Removes a passenger from a car 
  * @param c
- * @return this 
+ * @return getOffCar 
  */
     public Boolean getOffCar(Car c) {
         return c.removePassenger(this);
