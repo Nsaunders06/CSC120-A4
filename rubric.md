@@ -26,7 +26,7 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 **YES** 1 pt: The `Car` class has functional `addPassenger(...)` and `removePassenger(...)` methods
 
-**PART** 1 pt: The `Car` class has a `printManifest()` method that prints a nicely-formatted roster of all `Passenger`s currently aboard the car
+**YES** 1 pt: The `Car` class has a `printManifest()` method that prints a nicely-formatted roster of all `Passenger`s currently aboard the car
 
 ### Level 3 (3 pts)
 
@@ -44,7 +44,7 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 **YES** 2 pts: Executes fully & consistently without crashing (exception/freeze)
 
-**PART** 2 pt: Complies with style guidelines (missing items 1 pt each):
+**YES** 2 pt: Complies with style guidelines (missing items 1 pt each):
 
       _____ Classes & class members all have Javadoc header comments
 
