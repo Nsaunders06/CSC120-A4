@@ -6,6 +6,8 @@ import java.util.ArrayList;
     private Integer maxCapacity; 
 /** 
  * Constructor for Car class 
+ * @param passengerList 
+ * @param maxCapacity 
  */
 
 //Constructor 
